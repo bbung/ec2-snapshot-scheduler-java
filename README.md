@@ -1,6 +1,7 @@
 # ec2-snapshot-scheduler-java
 
-Java Version of the ec2-backup-scheduler provided by Amazon Web Services (AWS).
+This is basically a reimplementation of the ec2-backup-scheduler which is originally written by Amazon Web Services (AWS) in python.
+[https://github.com/awslabs/ebs-snapshot-scheduler]
 (work still in progress and progress may be slow as i do not have that much time at hand)
 
 
