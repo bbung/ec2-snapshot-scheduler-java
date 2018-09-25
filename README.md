@@ -9,7 +9,7 @@ Tag ec2-backup-scheduler Value Starttime,Snapshotcount;Days Backup is created
 Starttime: 0 - 2359
 Days: all, weekdays, mo, tu, we, th, fr, sa, su
 
-Exsamples:
+Examples:
 Backup every day at 7 a.m. retain last 10 backups.
 
   0700;10;all
